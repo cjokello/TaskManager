@@ -1,2 +1,2 @@
 # TaskManager
-Simple iOS task manager app
+Glorified to-do list.
